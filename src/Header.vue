@@ -1,7 +1,10 @@
 <script setup lang="ts"></script>
 
 <template>
-  <header>
-    <h1>Vue 3 REPL</h1>
-  </header>
+  <nav>
+    <h1>
+      <img h-24px mr-10px alt="logo" src="/logo.svg" />
+      <span>Vue SFC Playground</span>
+    </h1>
+  </nav>
 </template>
